@@ -40,7 +40,9 @@ initial-scale=1">
             <h1>Hello World</h1>
            <img src="https://cdn.pixabay.com/photo/2012/04/14/17/07/smiley-34625__340.png">
         </header>
-
+       
+        <?php
+            /* lab1.php Dominiqa Johnson 08/28/2019 */?>
         <main>
             
         <h2>Who I Am</h2>
@@ -53,9 +55,7 @@ initial-scale=1">
             <l>Socializing</l><br>
         </ul>    
             
-<?php echo 
-    '/*lab1.php Dominiqa Johnson 08/28/2019*/'
-    ;?>
+
             
 <?php echo            
     
