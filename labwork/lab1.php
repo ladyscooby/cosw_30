@@ -59,8 +59,7 @@ initial-scale=1">
             
 <?php echo            
     
-   print "<p>Usually I'm not on the web a lot. When I am, I like to go <a href=\'http://www.google.com'>Google</a>, <a href=\'http://www.youtube.com'>YouTube</a>, <a href=\'http://www.hulu.com'>Hulu</a>, <a href=\'http://www.netflix.com'>Netflix</a> and <a href=\'http://www.instagram.com'>Instagram</a> the most. I'm always searching for new shows or movies to watch, there’s something different every week. Some of my recommendations are What About Monday a movie on Netflix and Good Girls a show on Hulu.</p> 
-   
+print "<p>Usually I'm not on the web a lot. When I am, I like to go <a href='https://www.google.com'>Google</a>, <a href='https://www.youtube.com'>YouTube</a>, <a href='https://www.hulu.com'>Hulu</a>, <a href='https://www.netflix.com'>Netflix</a> and <a href='https://www.instagram.com'>Instagram</a> the most. I'm always searching for new shows or movies to watch, there’s something different every week. Some of my recommendations are What About Monday a movie on Netflix and Good Girls a show on Hulu.</p>   
    <p>After doing this assignment I feel PHP is a little challanging but easy to figure out once you play around with the code. Still trying to figure out how to get rid of the last three symbols once its uploaded. It was tricky trying to do the AWS Cloud9 command prompt, the Git commands are kinda hard at the moment. </p>";?>
  
        
