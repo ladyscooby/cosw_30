@@ -23,6 +23,9 @@ initial-scale=1">
             img{
                 margin: 2px;
             }
+             ul{
+                list-style: none;
+            }
             main{
                 font-family: 'Rancho', cursive;
                 font-size: 1.2em;
@@ -49,10 +52,10 @@ initial-scale=1">
         <p>I'm Dominquea in school for Web Development. This is my secound year studying web development in college. In High School I learned how to build a web page by using Dreamweaver when it was a new software, there wasn't much coding you had to type yourself. On my free time I like relaxing at home with a good show to binge watch. I also enjoy hanging out with friends and family. I'm an aunt to 7 nephews Geesh yes, all boys who I love very much, hoping to teach them coding as they grow older. My hobbies would be taking my nephews places, playing Pokémon go, going to the beach enjoying the view, love spontaneous adventures with friends, playing ps4 when I have time, and relaxing at home watching Hulu or Netflix. Also, I have a turtle name French-fry.</p>
         <p>Things I like:</p> 
         <ul>
-            <l>Gaming</l><br>
-            <l>Coding</l><br>
-            <l>Binging</l><br>
-            <l>Socializing</l><br>
+            <li>Gaming</li>
+            <li>Coding</li>
+            <li>Binging</li>
+            <li>Socializing</li>
         </ul>    
             
 
