@@ -50,7 +50,7 @@ echo "<p>Thank you, <strong> $first_name $last_name</strong>, for the following 
 	
 </style>
 <meta charset="utf-8">
-<title>Simple HTML Form</title>     
+<title>Feedback Form</title>     
 </head>
 <body> 
 <header>
