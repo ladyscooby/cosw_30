@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P|Ranga|Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Asul|Eczar&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Shrikhand&display=swap');
+body{
+  margin: 0;
+  display: block;
+  height: 100%;
+  padding: 0px;
+  background-color: #fff6bd;
+  font-family: 'Eczar', serif;
+font-family: 'Asul', sans-serif;
+}
+#header{
+  background-image: url(https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F69811481%2F217481859483%2F1%2Foriginal.20190825-115006?w=800&auto=compress&rect=0%2C18%2C720%2C360&s=4845536db716b91a87427e81b7c29f74);
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 10px;
+  border: 10px solid #0077Be;
+  border-bottom-right-radius: 12px;
+  border-top-right-radius: 12px;
+
+}
+#headtitle{
+font-family: 'Shrikhand', cursive;
+color: #2b9cfb;
+text-shadow: #e6f2f8 -5px -4px 1.5px;
+text-align: left;
+}
+#title{
+  font-family: 'Ranga', cursive;
+  border-bottom: 12px solid #0077Be;
+  border-bottom-right-radius: 12px;
+  padding: 5px;
+  display:inline-block;
+}
+#footer{
+  background-image: url(https://i.pinimg.com/originals/d0/d8/43/d0d843860737fb03b9855a61b16446d6.jpg);
+  background-size:cover;
+  background-attachment: fixed;
+  border: 10px solid #0077Be;
+  border-bottom-right-radius: 12px;
+  border-top-right-radius: 12px;
+  font-weight: normal;
+  font-size: 1.0em;
+  font-family: 'Shrikhand', cursive;
+  color: black;
+  text-align: center;
+  text-shadow: #e6f2f8 -5px -4px 1.5px;
+
+  clear: both;
+}
+#nav{
+  text-align: right;
+
+}
+#pic{
+  float: right;
+  clear: both;
+  text-align: center;
+  display: inline-block;
+  border: 2px;
+  padding: 15px;
+  padding-bottom: 15px;
+}
+#about{
+  display: block;
+  border: 2px;
+  font-size: 1.3em;
+  font-weight: bolder;
+  padding: 3px;
+}
+#sign{
+  text-align: center;
+  display: block;
+}
+li{
+  list-style: none;
+  font-family: 'Shrikhand', cursive;
+   font-size: 1.7em;
+   display: inline-table;
+   font-weight: 900;
+
+}
+
+a.link:link{
+  text-decoration: none;
+  color: #2b9cfb;
+  text-shadow: #e6f2f8 -4px -7px 1.8px;
+}
+a.link:hover{
+  color: #e6f2f8;
+  text-shadow: #f395a5 -6px -7px 1.8px;
+}
